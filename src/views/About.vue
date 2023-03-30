@@ -5,4 +5,7 @@
   <div>
     master
   </div>
+  <div>
+    hot-fix
+  </div>
 </template>
